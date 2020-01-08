@@ -23,7 +23,16 @@ Anhanguera Educacional – Und. 4 (trancado 5º semestre)
 
 
 
+### __HOMEBOOK.APP__
 
+`2018`
+__*Desenvolvedor Full Stack*__
+
+Desenvolvimento Full Stack Node, construção e manutenção de apps usando Kotlin, Java, Swift, e arquitetura MVVM, Retrofit, Notificações, publicações em loja (play store, e apple store).
+
+
+
+***
 ### __BUILDBOX IT SOLUTIONS__
 
 `2018`
