@@ -1,16 +1,14 @@
 ---
-layout: cv
-title: Jhonattas Henrique Gonçalves
+layout: web
+identification: Jhonattas Henrique
+title: Full Stack Developer
+facebook: jhonattash
+instagram: jhonattash
+twitter: jhonattash
+linkedin: jhonattas
+address: Campinas
+city: SP - Brazil
 ---
-# Jhonattas Henrique Gonçalves
-Full Stack Developer
-
-<div id="webaddress">
-<a href="mailto:jhonattas@soucriador.com">jhonattas@soucriador.com</a>
-| <a href="https://jhonattas.com/">www.jhonattas.com</a>
-</div>
-
-
 ## Formação Acadêmica
 __Tecnologia em Analise e Desenvolvimento de Sistemas__
 
